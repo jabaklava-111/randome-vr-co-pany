@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'DB';
+    src: url(../fonts/DB.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'DM';
+    src: url(../fonts/DM.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'DR';
+    src: url(../fonts/DR.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'RM';
+    src: url(../fonts/RM.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'RR';
+    src: url(../fonts/RR.ttf) format('truetype');
+}
